@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @PwDhog25
-- 👀 I’m interested in become well learned on the coding/decoding messages and programs
+-  Hi, I’m @PwDhog25
 
-- 🌱 I’m currently learning the basics on this as I'm playing with termux/tasker right now
+-  I’m interested in becoming well learned on the coding/decoding messages and programs aspect
 
-- 💞️ I’m looking to collaborate on how interesting and constructive language can be transferred
+-  I’m currently learning the basics on this as I'm playing with termux/tasker right now
 
-- 📫 How to reach me is through this site or by email. Please help this lost soul. I'm trying to figure things out just through my MOTO G POWER Android phone.
+-  I’m looking to collaborate on how interesting and constructive language can be transferred
+
+-  How to reach me is through this site or by email. Please help this lost soul. I'm trying to figure things out just through my (2021 borneo)MOTO G POWER Android phone.
+ 
  I could use --help and a few pointers please. 
                        ✌️ Thanks guys ✌️
 
